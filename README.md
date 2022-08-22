@@ -4,7 +4,7 @@
 
 ## Overview
 
-This course is intended for individuals with some exposure to multivariable models such as regression, random forest, or neural nets.  In the context of these multivariable models, the course covers:
+This course is intended for individuals with some exposure to multivariable models such as regression, random forest, or neural networks.  In the context of these multivariable models, the course covers:
 
 1. inference vs prediction (vs false dichotomy)
 1. variation, heterogeneity, and confounding
