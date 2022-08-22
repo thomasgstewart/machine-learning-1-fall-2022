@@ -16,7 +16,7 @@ This course is intended for individuals with some exposure to multivariable mode
 1. strategies for right-sizing the model complexity
     * regularization (LASSO, ridge, Bayesian)
     * constraints (principle component, monotonicity)
-1. discrimination
+    1. discrimination
 1. calibration
 1. strategies for data challenges
     * missing data
@@ -45,9 +45,11 @@ PhD Candidate
 
 ## Instruction & Office hours <i class="fas fa-chalkboard-teacher"></i>
 
-**Format of the class:** In-class time will be a combination of lectures, group assignments, live coding, and student presentations.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
+**Format of the class:** In-class time will be a combination of lectures, group assignments, live coding, and student presentations.  
 
-**Lectures:** Monday, Wednesday, and Friday @ 9am - Dell XXX
+**Please note:** Circumstances may require the face-to-face portion of the class to be online.
+
+**Time:** Monday, Wednesday, and Friday @ 9am - Dell XXX
 
 **Office Hours:** Monday, Wednesday, and Friday @ 10am - Dell common area
 
