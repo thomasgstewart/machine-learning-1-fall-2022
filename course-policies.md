@@ -3,7 +3,7 @@
 ## Grading
 
 ### Deliverables 
-There are 9 project deliverables.  Each deliverable will be graded on a pass/fail basis.  
+There are 9 project deliverables.  Each deliverable will be graded on a pass/fail basis. 
 Students will have opportunities to resubmit deliverables **within 2 weeks** of initial feedback. 
 
 ### Final project
