@@ -33,14 +33,14 @@ These topics will be discussed first in the context of linear regression, and th
 [Thomas G. Stewart, PhD](https://tgstewart.xyz)  
 Associate Professor  
 <i class="fas fa-map-marker-alt"></i> Elson Building, 400 Brandon Ave, Room 156  
-<i class="fas fa-envelope"></i> thomas.stewart@virginia.edu
+<i class="fas fa-envelope"></i> thomas.stewart@virginia.edu  
 <i class="fab fa-github-square"></i> thomasgstewart
 
 ## Teaching assistants
 
 [TBD]()  
 PhD Candidate  
-<i class="fas fa-envelope"></i> XXX@vanderbilt.edu  
+<i class="fas fa-envelope"></i> XXX@virginia.edu  
 <i class="fab fa-github-square"></i> XXX
 
 ## Instruction & Office hours <i class="fas fa-chalkboard-teacher"></i>
