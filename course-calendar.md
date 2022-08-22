@@ -1,5 +1,9 @@
 # Course Calendar Fall 2021
 
+## Final Project Presentation
+
+The final project presentations will be Thursday, December 8, 2022 from	2:00PM-5:00PM.
+
 ## Deliverables
 
 | Title | First Submission Due Date | Resubmission Due Date |
@@ -15,22 +19,12 @@
 | 8. | | |
 | 9. | | |
 
-## MURAL Whiteboards
 
-| Date |
-|:---|
-| Whiteboards from class will be posted here |
+## Slides, whiteboards, and videos from class will be posted here.
+
+| Topic | Slides | Textbook sections | Whiteboards | Videos |
+|---|:---:|:---:|---|---|
+| Class logistics | | | | |
+| **Overview** | | | | |
 
 
-## Final Project Presentation
-
-The final project presentations will be Thursday, December 8, 2022 from	2:00PM-5:00PM.
-
-## Topics
-
-**PLEASE NOTE:** The slides are often changed before lecture (both major edits and minor tweaks).  
-
-| Topic | Slides | Textbook sections | Videos |
-|---|:---:|:---:|---|
-| Class logistics | | | |
-| **Overview** | | | |
