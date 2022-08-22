@@ -21,6 +21,8 @@ During the final exam period, students will present their comparative analysis t
 
 Students will be graded on both the clarity with which they explain course concepts and their approach in the data analysis.
 
+Additional details will be provided in early November.
+
 ### Final grades
 
 Final grades will be assigned as follows.
