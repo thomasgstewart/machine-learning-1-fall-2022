@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+<script src="https://kit.fontawesome.com/889acaf6e2.js"></script>
 
-You can use the [editor on GitHub](https://github.com/thomasgstewart/machine-learning-1-fall-2022/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Machine Learning I
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview
 
-### Markdown
+This course is intended for individuals with some exposure to multivariable models such as regression, random forest, or neural nets.  In the context of these multivariable models, the course covers:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. inference vs prediction (vs false dichotomy)
+1. variation, heterogeneity, and confounding
+1. non-linear relationships between predictors and the outcome
+1. interactions between predictors
+1. model complexity
+1. carrying capacity of data
+1. model stability
+1. strategies for right-sizing the model complexity
+    * regularization (LASSO, ridge, Bayesian)
+    * constraints (principle component, monotonicity)
+1. discrimination
+1. calibration
+1. strategies for data challenges
+    * missing data
+    * overly influential observations
+1. common challenges in observational data analysis
+    * selection bias
+    * survivor selection bias
+    * confounding by indication
 
-```markdown
-Syntax highlighted code block
+These topics will be discussed first in the context of linear regression, and then revisited in the context of logistic regression, ordinal regression, proportional hazards regression, random forests, and (time permitting) neural networks.  The course is hands-on; students will be required to fit the models (via both maximum likelihood and Bayesian approaches) and implement the strategies discussed in the course.
 
-# Header 1
-## Header 2
-### Header 3
+## Instructor
 
-- Bulleted
-- List
+[Thomas G. Stewart, PhD](tgstewart.xyz)  
+Associate Professor  
+<i class="fas fa-map-marker-alt"></i> Elson Building, 400 Brandon Ave, Room 156  
+<i class="fas fa-envelope"></i> thomas.stewart@virginia.edu
+<i class="fab fa-github-square"></i> thomasgstewart
 
-1. Numbered
-2. List
+## Teaching assistants
 
-**Bold** and _Italic_ and `Code` text
+[TBD]()  
+PhD Candidate  
+<i class="fas fa-envelope"></i> XXX@vanderbilt.edu  
+<i class="fab fa-github-square"></i> XXX
 
-[Link](url) and ![Image](src)
-```
+## Instruction & Office hours <i class="fas fa-chalkboard-teacher"></i>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Format of the class:** Face-to-Face lectures will be held in Dell room XXX.  Office hours will be held 3 times each week, and may be virtual.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-### Jekyll Themes
+**Lectures:** Dell XXX
+ Monday, Wednesday, and Friday @ 9am
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasgstewart/machine-learning-1-fall-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Office Hours:** 
+Monday, Wednesday, and Friday @ 10am - Dell common area
 
-### Support or Contact
+## Textbooks <i class="fas fa-book"></i>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Regression Modeling Strategies With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis
+by Frank E. Harrell, Jr.
+ISBN-13: 978-3-319-19424-0
+Available as a PDF via UVA institutional license [(link)](https://doi.org/10.1007/978-3-319-19425-7)
+
+### Optional reference texts 
+
+Data Analysis Using Regression and Multilevel/Hierarchical Models
+by Andrew Gelman and Jennifer Hill 
+ISBN-10: 052168689X
+ISBN-13: 978-0521686891 
+
+## Computing
+
+The course will be taught using  [R (link)](https://www.R-project.org/).
+
+## Communication
+
+To be discussed on the first day of class.  Slack? Discord? Email?
