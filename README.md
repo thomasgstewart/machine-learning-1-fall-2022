@@ -13,10 +13,11 @@ This course is intended for individuals with some exposure to multivariable mode
 1. model complexity
 1. carrying capacity of data
 1. model stability
+1. model diagnostics
 1. strategies for right-sizing the model complexity
     * regularization (LASSO, ridge, Bayesian)
-    * constraints (principle component, monotonicity)
-    1. discrimination
+    * constraints (principle components, monotonicity)
+1. discrimination
 1. calibration
 1. strategies for data challenges
     * missing data
