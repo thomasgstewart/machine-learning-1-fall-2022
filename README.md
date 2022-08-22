@@ -30,7 +30,7 @@ These topics will be discussed first in the context of linear regression, and th
 
 ## Instructor
 
-[Thomas G. Stewart, PhD](tgstewart.xyz)  
+[Thomas G. Stewart, PhD](https://tgstewart.xyz)  
 Associate Professor  
 <i class="fas fa-map-marker-alt"></i> Elson Building, 400 Brandon Ave, Room 156  
 <i class="fas fa-envelope"></i> thomas.stewart@virginia.edu
@@ -45,27 +45,25 @@ PhD Candidate
 
 ## Instruction & Office hours <i class="fas fa-chalkboard-teacher"></i>
 
-**Format of the class:** Face-to-Face lectures will be held in Dell room XXX.  Office hours will be held 3 times each week, and may be virtual.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
+**Format of the class:** In-class time will be a combination of lectures, group assignments, live coding, and student presentations.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-**Lectures:** Dell XXX
- Monday, Wednesday, and Friday @ 9am
+**Lectures:** Monday, Wednesday, and Friday @ 9am - Dell XXX
 
-**Office Hours:** 
-Monday, Wednesday, and Friday @ 10am - Dell common area
+**Office Hours:** Monday, Wednesday, and Friday @ 10am - Dell common area
 
 ## Textbooks <i class="fas fa-book"></i>
 
-Regression Modeling Strategies With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis
-by Frank E. Harrell, Jr.
-ISBN-13: 978-3-319-19424-0
+Regression Modeling Strategies With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis  
+by Frank E. Harrell, Jr.  
+ISBN-13: 978-3-319-19424-0  
 Available as a PDF via UVA institutional license [(link)](https://doi.org/10.1007/978-3-319-19425-7)
 
 ### Optional reference texts 
 
-Data Analysis Using Regression and Multilevel/Hierarchical Models
-by Andrew Gelman and Jennifer Hill 
-ISBN-10: 052168689X
-ISBN-13: 978-0521686891 
+Data Analysis Using Regression and Multilevel/Hierarchical Models  
+by Andrew Gelman and Jennifer Hill  
+ISBN-10: 052168689X  
+ISBN-13: 978-0521686891
 
 ## Computing
 
