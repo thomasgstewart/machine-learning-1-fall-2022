@@ -1,6 +1,6 @@
 <script src="https://kit.fontawesome.com/889acaf6e2.js"></script>
 
-# Machine Learning I
+# Machine Learning I Fall 2022
 
 ## Overview
 
@@ -50,7 +50,7 @@ PhD Candidate
 
 **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-**Time:** Monday, Wednesday, and Friday @ 9am - Dell XXX
+**Time:** Monday, Wednesday, and Friday @ 11am - Dell 1 Room 104
 
 **Office Hours:** Monday, Wednesday, and Friday @ 10am - Dell common area
 
