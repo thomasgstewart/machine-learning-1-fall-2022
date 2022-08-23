@@ -24,7 +24,7 @@ The final project presentations will be Thursday, December 8, 2022 from	2:00PM-5
 
 | Topic | Slides | Textbook sections | Whiteboards | Videos |
 |---|:---:|:---:|---|---|
-| Class logistics | | | | |
+| Class logistics | [first day survey](https://virginia.az1.qualtrics.com/jfe/form/SV_7WhYEQOSB5JIzDE)| | | |
 | **Overview** | | | | |
 
 
