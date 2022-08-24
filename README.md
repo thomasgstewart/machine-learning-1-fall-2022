@@ -59,7 +59,8 @@ PhD Candidate
 Regression Modeling Strategies With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis  
 by Frank E. Harrell, Jr.  
 ISBN-13: 978-3-319-19424-0  
-Available as a PDF via UVA institutional license [(link)](https://doi.org/10.1007/978-3-319-19425-7)
+Available as a PDF via UVA institutional license [(link)](https://doi.org/10.1007/978-3-319-19425-7)  
+Author's website for textbook: [(link)](http://hbiostat.org/rmsc/)
 
 ### Optional reference texts 
 
