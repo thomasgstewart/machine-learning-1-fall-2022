@@ -44,3 +44,7 @@ Students are encouraged to study together.  The instructions for each deliverabl
 Students should not collaborate on the final project.  Students that violate the collaborative-work policy on an deliverable will fail the deliverable in
 question and forfeit the opportunity to retake or resubmit.  Students that violate the collaborative-work policy on the final exam will fail the final exam.
 Students may be refered to UVA Honor Committee.
+
+## Accomodations
+
+UVA is committed to creating a learning environment that meets the needs of its diverse student body. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me. If you have a disability, or think you may have a disability, you may also want to meet with the Student Disability Access Center (SDAC), to request an official accommodation. You can find more information about SDAC, including how to apply online, through their website at www.studenthealth.virginia.edu/SDAC. If you have already been approved for accommodations through SDAC, please make sure to send me your accommodation letter and meet with me so we can develop an implementation plan together.

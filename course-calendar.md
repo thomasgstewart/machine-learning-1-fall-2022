@@ -19,14 +19,86 @@ The final project presentations will be Thursday, December 8, 2022 from	2:00PM-5
 | 8. | | |
 | 9. | | |
 
+## Calendar
 
-## Slides, whiteboards, and videos from class will be posted here.
+Material in `monospaced font` are in the course Teams site.  The letter H denotes sections with the course text book.
 
-| Topic | Slides | Textbook sections | Whiteboards | Videos |
-|---|:---:|:---:|---|---|
-| Class logistics | [first day survey](https://virginia.az1.qualtrics.com/jfe/form/SV_b2EzxNtWeShfqmy) | | | [Github desktop](https://virginia.zoom.us/rec/share/z-XH0pwb6b7_llxDs0brhhrwHmFMCFvVJWhF6xFk6xb4rc1OGyGf17UXRcLfOC3t.jr5N80K-l43300K-?startTime=1661462848000) |
-| **Overview** | | | | |
-
-
-
-
+| Class date | Topic | Material |
+|---|:---|:---|
+| 2022-08-26 | Data types | `01-data-types` |
+| 2022-08-29 | Course overview | `02-course-outline` |
+| | **Linear Regression** | |
+| | Model formulation | `lion-age-nose`, H 2.2 |
+| | Bayesian vs MLE | `lion-age-nose-bayesian` |
+| | Interactions | 2.3 |
+| | Nonlinearity | H 2.4 - 2.5 |
+| | Measures of model performance | H 5 |
+| | → Discrimination |  |
+| | → Calibration |  |
+| | → Optimism |  |
+| | Measures of model performance | H 5 |
+| | Carrying capacity of data | |
+| | Model complexity | |
+| | Strategies for right-sizing the model complexity | |
+| | → regularization (LASSO, ridge, Bayesian) | |
+| | → constraints (principle components, monotonicity) |
+| | **Logistic Regression** | |
+| | Model formulation |  |
+| | Bayesian vs MLE |  |
+| | Interactions | |
+| | Nonlinearity | |
+| | Measures of model performance | |
+| | → Discrimination |  |
+| | → Calibration |  |
+| | → Optimism |  |
+| | Measures of model performance | |
+| | Carrying capacity of data | |
+| | Model complexity | |
+| | Strategies for right-sizing the model complexity | |
+| | → regularization (LASSO, ridge, Bayesian) | |
+| | → constraints (principle components, monotonicity) |
+| | **Ordinal Regression** | |
+| | Model formulation |  |
+| | Bayesian vs MLE |  |
+| | Interactions | |
+| | Nonlinearity | |
+| | Measures of model performance | |
+| | → Discrimination |  |
+| | → Calibration |  |
+| | → Optimism |  |
+| | Measures of model performance | |
+| | Carrying capacity of data | |
+| | Model complexity | |
+| | Strategies for right-sizing the model complexity | |
+| | → regularization (LASSO, ridge, Bayesian) | |
+| | → constraints (principle components, monotonicity) |
+| | **Hazard Regression** | |
+| | Model formulation |  |
+| | Bayesian vs MLE |  |
+| | Interactions | |
+| | Nonlinearity | |
+| | Measures of model performance | |
+| | → Discrimination |  |
+| | → Calibration |  |
+| | → Optimism |  |
+| | Measures of model performance | |
+| | Carrying capacity of data | |
+| | Model complexity | |
+| | Strategies for right-sizing the model complexity | |
+| | → regularization (LASSO, ridge, Bayesian) | |
+| | → constraints (principle components, monotonicity) |
+| | **Random Forest** | |
+| | Model formulation |  |
+| | Bayesian vs MLE |  |
+| | Interactions | |
+| | Nonlinearity | |
+| | Measures of model performance | |
+| | → Discrimination |  |
+| | → Calibration |  |
+| | → Optimism |  |
+| | Measures of model performance | |
+| | Carrying capacity of data | |
+| | Model complexity | |
+| | Strategies for right-sizing the model complexity | |
+| | → regularization (LASSO, ridge, Bayesian) | |
+| | → constraints (principle components, monotonicity) |
