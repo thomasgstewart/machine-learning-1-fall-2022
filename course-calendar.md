@@ -9,7 +9,7 @@ The final project presentations will be Thursday, December 8, 2022 from	2:00PM-5
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
 | 0. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
-| 1. | | |
+| 1. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/master/deliverables/facial-metrics-aggressive-behvaior.md">Facial metrics</a>  | 2022-09-16 | |
 | 2. | | |
 | 3. | | |
 | 4. | | |
@@ -29,7 +29,7 @@ Material in `monospaced font` are in the course Teams site.  The letter H denote
 | 2022-08-29 | Course overview | `02-course-outline` |
 | | **Linear Regression** | |
 | | Model formulation | `lion-age-nose`, H 2.2 |
-| | Bayesian vs MLE | `lion-age-nose-bayesian` |
+| | Bayesian vs MLE | `lion-age-nose-bayesian` <br> `Maximum Likelihood and Bayesian Analysis` <br> `salary-bayes.R` <br> `salary-mle.R` |
 | | Interactions | 2.3 |
 | | Nonlinearity | H 2.4 - 2.5 |
 | | Measures of model performance | H 5 |
