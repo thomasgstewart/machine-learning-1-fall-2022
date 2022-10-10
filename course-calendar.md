@@ -11,7 +11,7 @@ The final project presentations will be Thursday, December 8, 2022 from	2:00PM-5
 | 0. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
 | 1. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/facial-metrics-aggressive-behavior.md">Facial metrics</a>  | 2022-09-16 | |
 | 2A. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/framingham.md">Framingham Heart Study</a>  | 2022-09-26| |
-| 2B. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/framingham-diagnostics-performance.md">Framingham Heart Study Diagnostics</a>  | ??? | |
+| 2B. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/framingham-diagnostics-performance.md">Framingham Heart Study Diagnostics</a>  | 2022-10-12 | |
 | 3. | | |
 | 4. | | |
 | 5. | | |
