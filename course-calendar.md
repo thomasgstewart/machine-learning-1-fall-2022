@@ -14,7 +14,7 @@ The final project presentations will be Thursday, December 8, 2022 from	2:00PM-5
 | 2B. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/framingham-diagnostics-performance.md">Framingham Heart Study Diagnostics</a>  | 2022-10-12 | 2022-10-31 |
 | 3. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/reddit-pca.md">PCA</a> | 2022-11-04 | |
 | 4. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/ipums.md">Case study</a> | 2022-11-16 | |
-| 5. | | |
+| 5. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/main/deliverables/stroke.md">Stroke</a> | 2022-11-28 | |
 | 6. | | |
 | 7. | | |
 | 8. | | |
