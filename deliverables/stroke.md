@@ -11,5 +11,4 @@ Suppose death at 6 months is the primary endpoint.
 1. Generate the table of standard hypotheses.
 1. Generate a partial effect plot for one of the predictors in the model.
 1. Make a conclusion about the effectiveness of aspirin as a treatment with respect to the primary endpoint.
-
-2. 
+1. (Optional) refit the model with a prior.
