@@ -8,8 +8,8 @@ Students will have opportunities to resubmit deliverables **within 2 weeks** of 
 
 ### Final project
 
-Students will plan, execute, and present a **comparative** data analysis on a question of your their own choosing, preferably a question from their own research.
-Students will answer the same research question using competing methods, such as regression vs random forest or random forest vs neural network.  Students are encouraged to
+Students will plan, execute, and present a data analysis on a question of your their own choosing, preferably a question from their own research.
+Students will answer the research question using regression.  Students are encouraged to
 
 1.  Choose a research question for which the development of a predictive model makes sense.
 1.  Select a dataset that includes predictors of various types (both continuous and categorical).
@@ -17,7 +17,7 @@ Students will answer the same research question using competing methods, such as
 1.  Address model selection and fit.
 1.  Use graphical displays in both the report and the presentation.
     
-During the final exam period, students will present their comparative analysis to the class, giving particular emphasis to the stengths and weaknesses of each approach.
+During the final exam period, students will present their comparative analysis to the class, giving particular emphasis to the strengths and weaknesses of the approach.
 
 Students will be graded on both the clarity with which they explain course concepts and their approach in the data analysis.
 
